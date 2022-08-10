@@ -7,6 +7,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=milovanarsul&show_icons=true&locale=en&layout=compact" alt="milovanarsul" /></p>
 
-<p align="left" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milovanarsul&show_icons=true&locale=en" alt="milovanarsul"/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milovanarsul&" alt="milovanarsul" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=milovanarsul&show_icons=true&locale=en" alt="milovanarsul"/></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milovanarsul&" alt="milovanarsul" /></p>
 
           
